@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ishan Bhatt"
   avatar           : "profile.png"
-  bio              : "Hello there! I'm a research assistant at Opportunity Insights. I graduated from Harvard in 2023."
+  bio              : "I'm a research assistant at Opportunity Insights. I graduated from Harvard in 2023."
   location         : "Cambridge, MA"
   employer         :
   pubmed           : 
@@ -175,19 +175,6 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
-  publications:
-    output: false
-    permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -234,7 +221,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
+      share: true
       comment: true
   # _talks
   - scope:
@@ -244,7 +231,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-      output: false
 
 # Sass/SCSS
 sass:
