@@ -244,6 +244,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      output: false
 
 # Sass/SCSS
 sass:
