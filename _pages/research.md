@@ -3,10 +3,6 @@ title: Research
 layout: single
 classes: wide
 permalink: /research/
-output: 
-  html_document:
-    includes:
-       in_header: analytics.html
 ---
 
 ### Working Papers 

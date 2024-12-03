@@ -6,10 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-output: 
-  html_document:
-    includes:
-       in_header: analytics.html
 ---
 
 I am a research assistant at [Opportunity Insights], where I work on questions of economic mobility and public policy using large administrative datasets.  
