@@ -6,7 +6,7 @@ permalink: /research/
 output: 
   html_document:
     includes:
-       in_header: GA_Script.html
+       in_header: analytics.html
 ---
 
 ### Working Papers 
