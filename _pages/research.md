@@ -3,6 +3,10 @@ title: Research
 layout: single
 classes: wide
 permalink: /research/
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
 ---
 
 ### Working Papers 
