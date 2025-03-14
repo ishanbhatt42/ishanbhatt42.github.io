@@ -83,7 +83,7 @@ author:
   name             : "Ishan Bhatt"
   avatar           : "profile.png"
   bio              : "I'm a research assistant at Opportunity Insights. I graduated from Harvard in 2023."
-  location         : "Cambridge, MA"
+  location         : "Greater Boston"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ishanbhatt42"
+  twitter          : # "ishanbhatt42"
   vine             :
   weibo            :
   xing             :
@@ -242,7 +242,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
