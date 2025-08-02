@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ishan Bhatt"
 title_separator          : "-"
 name                     : &name "Ishan Bhatt"
-description              : &description "Research assistant at Opportunity Insights."
+description              : &description "Business Economics PhD at Harvard Business School."
 url                      : https://ishanbhatt42.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ishanbhatt42.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ishan Bhatt"
   avatar           : "profile.png"
-  bio              : "I'm a research assistant at Opportunity Insights. I graduated from Harvard in 2023."
+  bio              : "I'm a PhD student at Harvard Business School."
   location         : "Greater Boston"
   employer         :
   pubmed           : 

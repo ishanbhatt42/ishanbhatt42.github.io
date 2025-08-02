@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant at [Opportunity Insights], where I work on questions of economic mobility and public policy using large administrative datasets.  
+I'm a PhD student in the Business Economics program at Harvard Business School. 
 
-I graduated from Harvard in 2023 with a B.A. in Applied Mathematics/Economics and an M.A. in Statistics. While there, I was fortunate to be advised by [Prof. Jesse Shapiro], under whom I studied zoning regulation related to accessory dwelling units in my [senior thesis].
+Before my PhD, I worked as a research assistant at [Opportunity Insights], where I studied economic mobility using large administrative datasets. I contributed to research on [which neighborhoods provide better prospects for children growing up in poverty] and how [economic mobility has changed over time].
 
-On this site, you can find my academic research, [CV], and other projects. 
+I graduated from Harvard College in 2023 with an A.B. in Applied Mathematics and an A.M. in Statistics. While there, I was fortunate to be advised by [Prof. Jesse Shapiro], under whom I studied zoning regulation related to accessory dwelling units in my [senior thesis]. My work won the [Dunlop prize], awarded to the "best thesis [...] at the interface of business and government."
 
 [Opportunity Insights]: https://opportunityinsights.org/
+[which neighborhoods provide better prospects for children growing up in poverty]: https://opportunityinsights.org/paper/the-opportunity-atlas/
+[economic mobility has changed over time]: https://opportunityinsights.org/paper/changingopportunity/
 [Prof. Jesse Shapiro]: https://scholar.harvard.edu/shapiro/home
 [senior thesis]: https://ishanbhatt42.github.io/files/paper_adu.pdf
-[CV]: https://ishanbhatt42.github.io/files/bhatt_cv.pdf
+[Dunlop prize]: https://news.harvard.edu/gazette/story/newsplus/mossavar-rahmani-center-announces-2023-dunlop-undergraduate-thesis-prize-winner/
