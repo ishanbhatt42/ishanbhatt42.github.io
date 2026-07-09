@@ -18,5 +18,5 @@ I graduated from Harvard College in 2023 with an A.B. in Applied Mathematics and
 [which neighborhoods provide better prospects for children growing up in poverty]: https://opportunityinsights.org/paper/the-opportunity-atlas/
 [economic mobility has changed over time]: https://opportunityinsights.org/paper/changingopportunity/
 [Prof. Jesse Shapiro]: https://scholar.harvard.edu/shapiro/home
-[senior thesis]: https://ishanbhatt42.github.io/files/paper_adu.pdf
+[senior thesis]: https://ishanbhatt42.github.io/files/paper_adu_preemption.pdf
 [Dunlop prize]: https://news.harvard.edu/gazette/story/newsplus/mossavar-rahmani-center-announces-2023-dunlop-undergraduate-thesis-prize-winner/
