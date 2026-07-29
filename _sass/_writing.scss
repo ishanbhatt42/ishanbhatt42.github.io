@@ -1,0 +1,71 @@
+/* ==========================================================================
+   WRITING PAGE
+   ========================================================================== */
+
+.writing-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.writing-card {
+  margin-bottom: 1em;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  overflow: hidden;
+  transition: box-shadow 0.2s ease;
+
+  &:hover {
+    box-shadow: 0 0 10px rgba(#000, 0.25);
+  }
+}
+
+.writing-card__link {
+  display: flex;
+  align-items: stretch;
+  color: inherit;
+  text-decoration: none !important;
+
+  &:hover {
+    text-decoration: none !important;
+  }
+}
+
+.writing-card__image {
+  flex: 0 0 180px;
+  max-width: 180px;
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  @include breakpoint($small) {
+    flex-basis: 260px;
+    max-width: 260px;
+  }
+}
+
+.writing-card__body {
+  flex: 1 1 auto;
+  padding: 1em;
+}
+
+.writing-card__title {
+  margin: 0 0 0.25em;
+  font-family: $sans-serif-narrow;
+}
+
+.writing-card__subtitle {
+  margin: 0 0 0.5em;
+  font-size: $type-size-6;
+  font-style: italic;
+  color: mix(#fff, $gray, 25%);
+}
+
+.writing-card__date {
+  margin: 0;
+  font-size: $type-size-7;
+  color: mix(#fff, $gray, 25%);
+}

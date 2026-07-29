@@ -8,15 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in the Business Economics program at Harvard Business School. 
+I'm a PhD student in the Business Economics program at Harvard University. 
 
-Before my PhD, I worked as a research assistant at [Opportunity Insights], where I studied economic mobility using large administrative datasets. 
-
-I graduated from Harvard College in 2023 with an A.B. in Applied Mathematics and an A.M. in Statistics. While there, I was fortunate to be advised by [Prof. Jesse Shapiro], under whom I studied zoning regulation related to accessory dwelling units in my [senior thesis]. My work won the [Dunlop prize], awarded to the "best thesis [...] at the interface of business and government."
+Previously, I worked as a research assistant at [Opportunity Insights] for 
+Raj Chetty, studying economic mobility using large-scale administrative data. I earned an A.B. in Applied Mathematics and A.M. in Statistics in 
+2023 from Harvard, where I was advised by Jesse Shapiro and received the [Dunlop Prize] for
+the best thesis at the interface of business and government.
 
 [Opportunity Insights]: https://opportunityinsights.org/
-[which neighborhoods provide better prospects for children growing up in poverty]: https://opportunityinsights.org/paper/the-opportunity-atlas/
-[economic mobility has changed over time]: https://opportunityinsights.org/paper/changingopportunity/
-[Prof. Jesse Shapiro]: https://scholar.harvard.edu/shapiro/home
-[senior thesis]: https://ishanbhatt42.github.io/files/paper_adu_preemption.pdf
-[Dunlop prize]: https://news.harvard.edu/gazette/story/newsplus/mossavar-rahmani-center-announces-2023-dunlop-undergraduate-thesis-prize-winner/
+[Dunlop Prize]: https://news.harvard.edu/gazette/story/newsplus/mossavar-rahmani-center-announces-2023-dunlop-undergraduate-thesis-prize-winner/
